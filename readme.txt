@@ -21,8 +21,11 @@ Topics
 -Datatypes Summery  : premetive non-premitive
 -memory management Stack, Heap with example  
 
------10 videos are completed
+-----  10 videos are completed 
 
+-string methods
+-numbers and maths
+-Date time
 
 
 
