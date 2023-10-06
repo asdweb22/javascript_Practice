@@ -26,7 +26,7 @@
 //true =>1
 // false=>0
 
-let isLoggin = 1;
+// let isLoggin = 1;
 
-let booleanVal = Boolean(isLoggin);
-console.log(booleanVal);
+// let booleanVal = Boolean(isLoggin);
+// console.log(booleanVal);

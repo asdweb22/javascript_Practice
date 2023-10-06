@@ -1,5 +1,7 @@
 - .md extension:markdown documentation
 
+Note :Golden line : Js objects and web events,browser events
+
 -Be a confedent in javasscript language
 -Love the programming
 -main motive is to write the ode optimize and redable
@@ -15,7 +17,11 @@ Topics
 -Datatypes: number,string,boolean,null,undefined
 -code push on github
 -Datatypes conversion
-- Js Opearations
+-Js Opearations code snippets
+-Datatypes Summery  : premetive non-premitive
+-memory management Stack, Heap with example  
+
+-----10 videos are completed
 
 
 
