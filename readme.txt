@@ -28,5 +28,6 @@ Topics
 -Date
 -Array muliple concepts,methods with interview Q.A
 -Object
-
- 
+-functions normal , function expression and arrow functions, IIFE
+-JS Execution Context->how js work to execute js file
+-control flow 
